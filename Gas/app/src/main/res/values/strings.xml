@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">GasApp</string>
+    <string name="action_settings">Configurações</string>
+    <string name="action_help">Ajuda</string>
+    <string name="action_loggout">Sair</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">PRÓXIMO</string>
+    <string name="skip">PULAR</string>
+    <string name="start">COMEÇAR</string>
+
+    <string name="slide_1_title">Bem vindo ao GasApp!</string>
+    <string name="slide_1_desc">Seus pedidos chegam rápidinho!</string>
+
+    <string name="slide_2_title">Conhecimento do dia</string>
+    <string name="slide_2_desc">Todo dia um conteúdo de valor para lhe inspirar</string>
+
+    <string name="slide_3_title">Em qualquer lugar</string>
+    <string name="slide_3_desc">Você pode anotar trechos e frases sem estar conectado. Depois a gente sincroniza!</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+
+    <string name="slide_trai_1_title">Etiquetas</string>
+    <string name="slide_trai_1_desc">Vamos ajudar a salvar suas frases da forma mais eficaz.</string>
+
+    <string name="slide_trai_2_title">Conhecimento do dia</string>
+    <string name="slide_trai_2_desc">Todo dia um conteúdo de valor para lhe inspirar</string>
+
+    <string name="slide_trai_3_title">Em qualquer lugar</string>
+    <string name="slide_trai_3_desc">Você pode anotar trechos e frases sem estar conectado. Depois a gente sincroniza!</string>
+
+    <string name="slide_trai_4_title">World Travel</string>
+    <string name="slide_trai_4_desc">Book tickets of any transportation and travel the world!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="action_del">Excluir</string>
+    <string name="action_edit">Editar</string>
+
+    <string name="dialog_titulo_confirmacao">Realizar Pedido</string>
+
+    <string name="dialog_mensagem_confirmacao">Você deseja realizar o pedido?</string>
+
+    <string name="dialog_titulo_confirmacao_excluir">Excluir endereço?</string>
+
+    <string name="dialog_mensagem_confirmacao_excluir">Você deseja excluir o endereço?</string>
+
+    <string name="dialog_titulo_confirmacao_excluir_pedido">Excluir pedido?</string>
+
+    <string name="dialog_mensagem_confirmacao_excluir_pedido">Você deseja excluir o pedido?</string>
+
+    <string name="dialog_titulo_sair">Sair do TothApp?</string>
+
+    <string name="dialog_mensagem_sair">Você quer mesmo sair? Para retornar, você precisará de conexão.</string>
+    <string name="sair">Sair</string>
+    <string name="cancelar">Cancelar</string>
+
+
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+
+    <string name="prompt_email">Email ou telefone</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_inscrever">Inscrever-se</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Este endereço de e-mail é inválido</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">Preencha este campo</string>
+
+    <string name="error_empty_estado">Informe o estado</string>
+    <string name="error_empty_cep">Informe o CEP</string>
+    <string name="error_empty_cidade">Informe a cidade</string>
+    <string name="error_empty_bairro">Informe o bairro</string>
+    <string name="error_empty_rua">Informe a rua</string>
+    <string name="error_empty_numero">Informe o número</string>
+
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="frase_inicial">Seus pedidos chegam rápidinho!</string>
+    <string name="bem_vindo">Bem vindo ao GasApp!</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar-se</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="conhecimentodia">Produtos</string>
+    <string name="novidades">Pedidos</string>
+    <string name="frases">Minhas frases</string>
+    <string name="seguidores">Seguidores</string>
+    <string name="fbcamera">Câmera</string>
+    <string name="fbtexto">Texto</string>
+    <string name="fbnovafrase">Nova frase</string>
+    <string name="title_activity_enderecos">EnderecosActivity</string>
+
+</resources>

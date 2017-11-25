@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:paddingLeft="8dp"
+	android:paddingRight="8dp"
+	android:descendantFocusability="beforeDescendants">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:drawableBottom="@android:color/black"
+		android:layout_width="match_parent"
+		android:layout_height="130dp"
+		android:background="@drawable/card_background_selector"
+		android:paddingTop="10dp"
+		android:padding="10dp"
+		android:id="@+id/linearLayout"
+		android:weightSum="1">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal">
+
+			<ImageView
+				android:id="@+id/imageView5"
+				android:layout_width="38dp"
+				android:layout_height="match_parent"
+				app:srcCompat="@drawable/ic_home" />
+
+			<TextView
+				android:id="@+id/tvEndereco"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp"
+				android:layout_weight="1"
+				android:text="Rua Serafim Fagundes - 1544, Planalto - Ibirubá RS" />
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="10dp"
+			android:orientation="horizontal">
+
+			<Button
+				android:id="@+id/btExcluir"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Excluir" />
+
+			<Button
+				android:id="@+id/btEditar"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="Editar" />
+
+			<Button
+				android:id="@+id/btSelecionar"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Entregar aqui" />
+		</LinearLayout>
+
+	</LinearLayout>
+
+</FrameLayout>
